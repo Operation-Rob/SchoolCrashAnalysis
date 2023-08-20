@@ -1,0 +1,440 @@
+Crash ID,State,Month,Year,Dayweek,Time,Crash Type,Bus Involvement,Heavy Rigid Truck Involvement,Articulated Truck Involvement,Speed Limit,Road User,Gender,Age,National Remoteness Areas,SA4 Name 2021,National LGA Name 2021,National Road Type,Christmas Period,Easter Period,Age Group,Day of week,Time of day,Number Fatalities,"Bus 
+Involvement",Time of Day
+20236012,Tas,7,2023,Sunday,20:42:00,Single,No,No,No,100,Pedestrian,Male,16,Inner Regional Australia,Hobart,Derwent Valley,National or State Highway,No,No,0_to_16,Weekend,Night,1,No,Night
+20231131,NSW,7,2023,Friday,18:00:00,Multiple,No,No,No,70,Motorcycle rider,Male,14,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,Arterial Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20233130,Qld,7,2023,Sunday,23:00:00,Single,No,No,No,70,Driver,Male,18,Major Cities of Australia,Brisbane - East,Brisbane,Sub-arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20233136,Qld,7,2023,Sunday,18:00:00,Single,No,No,No,60,Passenger,Male,17,Major Cities of Australia,Brisbane - West,Brisbane,Collector Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20233095,Qld,7,2023,Friday,00:00:00,Multiple,No,No,No,60,Passenger,Female,18,Inner Regional Australia,Toowoomba,Toowoomba,Local Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20238002,ACT,7,2023,Sunday,16:20:00,Single,No,No,No,-9,Driver,Male,18,-9,-9,-9,-9,No,No,17_to_25,Weekend,Day,1,No,Day
+20231146,NSW,7,2023,Sunday,12:40:00,Multiple,No,No,No,100,Pedal cyclist,Female,17,Outer Regional Australia,Far West and Orana,Cabonne,Sub-arterial Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20231125,NSW,7,2023,Wednesday,08:40:00,Multiple,No,Yes,Yes,100,Driver,Female,18,Inner Regional Australia,Hunter Valley exc Newcastle,Singleton,National or State Highway,No,No,17_to_25,Weekday,Day,1,No,Day
+20233054,Qld,7,2023,Tuesday,08:00:00,Single,No,No,No,40,Driver,Male,18,Major Cities of Australia,Moreton Bay - South,Moreton Bay,Collector Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20232036,Vic,7,2023,Thursday,21:45:00,Multiple,-9,-9,-9,-9,Driver,Male,17,-9,-9,-9,-9,No,No,17_to_25,Weekday,Night,1,-9,Night
+20231032,NSW,6,2023,Friday,18:30:00,Single,No,No,No,60,Pedal cyclist,Male,13,Major Cities of Australia,Illawarra,Shellharbour,Arterial Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20231129,NSW,6,2023,Sunday,00:59:00,Single,No,No,No,50,Driver,Male,17,Outer Regional Australia,New England and North West,Moree Plains,Local Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20236009,Tas,6,2023,Sunday,19:30:00,Multiple,No,No,No,110,Driver,Male,18,Outer Regional Australia,West and North West,Latrobe (Tas.),National or State Highway,No,No,17_to_25,Weekend,Night,1,No,Night
+20233101,Qld,6,2023,Saturday,14:00:00,Multiple,No,No,No,100,Passenger,Female,15,Inner Regional Australia,Wide Bay,Gympie,Collector Road,No,No,0_to_16,Weekend,Day,1,No,Day
+20232055,Vic,6,2023,Wednesday,08:19:00,Multiple,No,No,No,110,Passenger,Female,15,-9,-9,-9,-9,No,No,0_to_16,Weekday,Day,1,No,Day
+20233059,Qld,6,2023,Sunday,23:00:00,Single,No,No,No,60,Pedestrian,Male,16,Major Cities of Australia,Sunshine Coast,Sunshine Coast,Collector Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20233034,Qld,5,2023,Sunday,18:00:00,Multiple,No,Yes,No,100,Driver,Male,17,Inner Regional Australia,Logan - Beaudesert,Scenic Rim,Sub-arterial Road,No,No,17_to_25,Weekend,Night,2,No,Night
+20233034,Qld,5,2023,Sunday,18:00:00,Multiple,No,Yes,No,100,Driver,Male,17,Inner Regional Australia,Logan - Beaudesert,Scenic Rim,Sub-arterial Road,No,No,17_to_25,Weekend,Night,2,No,Night
+20232059,Vic,5,2023,Friday,18:05:00,Single,No,No,No,100,Driver,Male,18,-9,-9,-9,Arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20231177,NSW,5,2023,Saturday,17:58:00,Multiple,No,No,No,80,Passenger,Female,15,Inner Regional Australia,Murray,Albury,National or State Highway,No,No,0_to_16,Weekend,Day,1,No,Day
+20235012,WA,5,2023,Sunday,07:37:00,Single,No,No,No,110,Driver,Male,18,-9,-9,-9,-9,No,No,17_to_25,Weekend,Day,1,No,Day
+20232068,Vic,5,2023,Tuesday,15:03:00,Multiple,No,No,Yes,80,Driver,Male,18,Major Cities of Australia,Melbourne - South East,Casey,Sub-arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20233021,Qld,5,2023,Tuesday,05:00:00,Multiple,No,No,No,100,Passenger,Female,17,Inner Regional Australia,Wide Bay,Bundaberg,Sub-arterial Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20231100,NSW,5,2023,Wednesday,23:58:00,Single,No,No,No,40,Pedestrian,Female,16,Major Cities of Australia,Sydney - City and Inner South,Sydney,Arterial Road,No,No,0_to_16,Weekday,Night,1,No,Night
+20233020,Qld,4,2023,Sunday,22:00:00,Multiple,No,No,No,80,Driver,Female,17,Inner Regional Australia,Wide Bay,Fraser Coast,Sub-arterial Road,No,No,17_to_25,Weekend,Night,3,No,Night
+20232081,Vic,4,2023,Saturday,02:05:00,Multiple,No,No,No,60,Passenger,Male,16,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges,Sub-arterial Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20232042,Vic,4,2023,Sunday,19:12:00,Single,No,No,No,80,Passenger,Male,16,Inner Regional Australia,Hume,Wangaratta,Arterial Road,No,Yes,0_to_16,Weekend,Night,2,No,Night
+20231057,NSW,4,2023,Saturday,19:00:00,Single,No,No,No,100,Driver,Male,18,Outer Regional Australia,Central West,Cabonne,Arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20231076,NSW,4,2023,Saturday,10:00:00,Single,No,No,No,60,Driver,Male,17,Major Cities of Australia,Sydney - Parramatta,Cumberland,Collector Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20231069,NSW,4,2023,Tuesday,23:09:00,Single,No,No,No,60,Passenger,Male,13,Outer Regional Australia,Riverina,Leeton,Local Road,No,No,0_to_16,Weekday,Night,4,No,Night
+20231069,NSW,4,2023,Tuesday,23:09:00,Single,No,No,No,60,Passenger,Male,12,Outer Regional Australia,Riverina,Leeton,Local Road,No,No,0_to_16,Weekday,Night,4,No,Night
+20231016,NSW,3,2023,Saturday,21:30:00,Single,No,No,No,100,Passenger,Male,14,Inner Regional Australia,Coffs Harbour - Grafton,Clarence Valley,Sub-arterial Road,No,No,0_to_16,Weekend,Night,3,No,Night
+20233099,Qld,3,2023,Saturday,21:00:00,Multiple,No,No,No,50,Motorcycle rider,Male,17,Major Cities of Australia,Logan - Beaudesert,Logan,Local Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20231034,NSW,3,2023,Saturday,09:50:00,Single,No,No,No,100,Driver,Male,15,Outer Regional Australia,New England and North West,Inverell,Sub-arterial Road,No,No,0_to_16,Weekend,Day,1,No,Day
+20232079,Vic,3,2023,Saturday,11:50:00,Multiple,No,No,No,40,Passenger,Female,16,-9,-9,-9,Sub-arterial Road,No,No,0_to_16,Weekend,Day,1,No,Day
+20235052,WA,3,2023,Saturday,13:19:00,Single,No,No,No,80,Driver,Male,17,-9,-9,-9,-9,No,No,17_to_25,Weekend,Day,1,No,Day
+20235057,WA,3,2023,Friday,15:54:00,Single,No,No,No,80,Motorcycle rider,Male,16,-9,-9,-9,-9,No,No,0_to_16,Weekday,Day,1,No,Day
+20232086,Vic,3,2023,Wednesday,06:43:00,Multiple,No,Yes,No,60,Pedal cyclist,Male,18,Major Cities of Australia,Melbourne - South East,Monash,Arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20233105,Qld,2,2023,Friday,23:00:00,Single,No,No,No,100,Driver,Male,17,Very Remote Australia,Queensland - Outback,Cloncurry,National or State Highway,No,No,17_to_25,Weekend,Night,1,No,Night
+20232067,Vic,2,2023,Saturday,14:58:00,Single,No,No,No,50,Motorcycle rider,Male,18,-9,-9,-9,Collector Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20235060,WA,2,2023,Tuesday,19:32:00,Single,No,No,No,60,Motorcycle rider,Male,16,-9,-9,-9,-9,No,No,0_to_16,Weekday,Night,1,No,Night
+20233113,Qld,2,2023,Wednesday,15:00:00,Single,No,No,No,100,Pedestrian,Male,14,Inner Regional Australia,Wide Bay,Gympie,Sub-arterial Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20231002,NSW,1,2023,Sunday,02:00:00,Single,No,No,No,80,Driver,Male,18,Inner Regional Australia,Capital Region,Yass Valley,Arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20233144,Qld,1,2023,Sunday,10:00:00,Multiple,No,Yes,No,60,Motorcycle rider,Male,15,Major Cities of Australia,Logan - Beaudesert,Logan,Local Road,Yes,No,0_to_16,Weekend,Day,1,No,Day
+20234014,SA,1,2023,Monday,06:40:00,Single,No,No,No,110,Driver,Male,18,Outer Regional Australia,South Australia - South East,Naracoorte Lucindale,National or State Highway,No,No,17_to_25,Weekday,Day,1,No,Day
+20225092,WA,12,2022,Thursday,17:49:00,Single,No,No,No,110,Passenger,Male,14,-9,-9,-9,-9,No,No,0_to_16,Weekday,Day,1,No,Day
+20224045,SA,12,2022,Tuesday,19:30:00,Single,No,No,No,110,Passenger,Female,17,Outer Regional Australia,Barossa - Yorke - Mid North,Wakefield,National or State Highway,Yes,No,17_to_25,Weekday,Night,3,No,Night
+20221184,NSW,12,2022,Thursday,11:15:00,Multiple,No,No,No,50,Pedestrian,Male,17,Major Cities of Australia,Sydney - Parramatta,Parramatta,Local Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20223003,Qld,11,2022,Thursday,23:00:00,Single,No,No,No,80,Driver,Male,17,Major Cities of Australia,Brisbane - East,Brisbane,Local Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20226034,Tas,11,2022,Saturday,15:15:00,Single,No,No,No,80,Motorcycle rider,Male,16,Outer Regional Australia,West and North West,Waratah-Wynyard,Access road,No,No,0_to_16,Weekend,Day,1,No,Day
+20223096,Qld,11,2022,Sunday,14:00:00,Multiple,No,No,No,100,Driver,Male,17,Inner Regional Australia,Darling Downs - Maranoa,Southern Downs,National or State Highway,No,No,17_to_25,Weekend,Day,1,No,Day
+20221112,NSW,11,2022,Sunday,16:41:00,Single,No,No,No,50,Passenger,Male,18,Major Cities of Australia,Sydney - North Sydney and Hornsby,North Sydney,Local Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20223195,Qld,10,2022,Saturday,23:00:00,Single,No,No,No,50,Passenger,Female,16,Inner Regional Australia,Logan - Beaudesert,Logan,Undetermined,No,No,0_to_16,Weekend,Night,1,No,Night
+20228014,ACT,10,2022,Sunday,03:55:00,Single,No,No,No,80,Passenger,Female,15,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,National or State Highway,No,No,0_to_16,Weekend,Night,2,No,Night
+20228014,ACT,10,2022,Sunday,03:55:00,Single,No,No,No,80,Passenger,Female,14,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,National or State Highway,No,No,0_to_16,Weekend,Night,2,No,Night
+20221113,NSW,10,2022,Friday,21:03:00,Single,No,No,No,80,Driver,Male,18,Inner Regional Australia,Sydney - Baulkham Hills and Hawkesbury,Hawkesbury,Sub-arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20221056,NSW,10,2022,Tuesday,01:30:00,Single,No,No,No,80,Passenger,Male,12,Major Cities of Australia,Illawarra,Wollongong,National or State Highway,No,No,0_to_16,Weekday,Night,1,No,Night
+20221226,NSW,10,2022,Sunday,15:00:00,Multiple,No,No,No,100,Driver,Male,17,Inner Regional Australia,Capital Region,Queanbeyan-Palerang Regional,Arterial Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20222069,Vic,10,2022,Monday,02:20:00,Single,No,No,No,60,Pedestrian,Male,15,Major Cities of Australia,Melbourne - West,Brimbank,Collector Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20223265,Qld,9,2022,Saturday,21:00:00,Single,No,No,No,70,Driver,Male,18,Major Cities of Australia,Gold Coast,Gold Coast,Sub-arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20221012,NSW,9,2022,Sunday,03:30:00,Single,No,No,No,70,Passenger,Male,17,Major Cities of Australia,Sydney - South West,Liverpool,Arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20222155,Vic,9,2022,Sunday,20:09:00,Multiple,No,No,No,100,Driver,Female,18,Outer Regional Australia,Latrobe - Gippsland,East Gippsland,National or State Highway,No,No,17_to_25,Weekend,Night,1,No,Night
+20224018,SA,9,2022,Friday,20:00:00,Single,No,No,No,100,Driver,Female,18,Outer Regional Australia,South Australia - South East,Tatiara,Local Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20224007,SA,9,2022,Tuesday,21:46:00,Single,No,No,No,60,Passenger,Male,17,Major Cities of Australia,Adelaide - North,Salisbury,Local Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20221064,NSW,9,2022,Saturday,09:05:00,Multiple,No,No,No,110,Passenger,Male,14,Inner Regional Australia,Central Coast,Central Coast,National or State Highway,No,No,0_to_16,Weekend,Day,2,No,Day
+20223004,Qld,9,2022,Sunday,14:00:00,Single,No,No,No,70,Motorcycle rider,Male,15,Major Cities of Australia,Logan - Beaudesert,Logan,Local Road,No,No,0_to_16,Weekend,Day,1,No,Day
+20223002,Qld,9,2022,Friday,06:00:00,Multiple,No,No,Yes,100,Driver,Male,18,Inner Regional Australia,Wide Bay,Fraser Coast,Sub-arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20225017,WA,9,2022,Friday,12:26:00,Single,No,No,No,110,Driver,Male,18,-9,-9,-9,-9,No,No,17_to_25,Weekday,Day,1,No,Day
+20221070,NSW,9,2022,Tuesday,19:50:00,Single,No,No,No,60,Passenger,Female,15,Inner Regional Australia,Sydney - Outer South West,Wingecarribee,Local Road,No,No,0_to_16,Weekday,Night,5,No,Night
+20221070,NSW,9,2022,Tuesday,19:50:00,Single,No,No,No,60,Passenger,Female,14,Inner Regional Australia,Sydney - Outer South West,Wingecarribee,Local Road,No,No,0_to_16,Weekday,Night,5,No,Night
+20221070,NSW,9,2022,Tuesday,19:50:00,Single,No,No,No,60,Passenger,Female,14,Inner Regional Australia,Sydney - Outer South West,Wingecarribee,Local Road,No,No,0_to_16,Weekday,Night,5,No,Night
+20221070,NSW,9,2022,Tuesday,19:50:00,Single,No,No,No,60,Passenger,Male,15,Inner Regional Australia,Sydney - Outer South West,Wingecarribee,Local Road,No,No,0_to_16,Weekday,Night,5,No,Night
+20221070,NSW,9,2022,Tuesday,19:50:00,Single,No,No,No,60,Passenger,Male,16,Inner Regional Australia,Sydney - Outer South West,Wingecarribee,Local Road,No,No,0_to_16,Weekday,Night,5,No,Night
+20222210,Vic,9,2022,Thursday,16:50:00,Single,No,No,No,50,Pedestrian,Male,13,Major Cities of Australia,Melbourne - North East,Mitchell,Local Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20225106,WA,8,2022,Saturday,04:02:00,Single,No,No,No,-9,Passenger,Male,18,-9,-9,-9,-9,No,No,17_to_25,Weekend,Night,1,No,Night
+20222238,Vic,8,2022,Friday,23:00:00,Single,No,No,No,100,Other/-9,Male,16,Outer Regional Australia,Warrnambool and South West,Corangamite,National or State Highway,No,No,0_to_16,Weekend,Night,2,No,Night
+20225108,WA,8,2022,Sunday,07:15:00,Single,No,No,No,90,Driver,Female,18,-9,-9,-9,-9,No,No,17_to_25,Weekend,Day,1,No,Day
+20225039,WA,8,2022,Thursday,02:24:00,Single,No,No,No,80,Motorcycle rider,Male,17,-9,-9,-9,-9,No,No,17_to_25,Weekday,Night,2,No,Night
+20227024,NT,7,2022,Sunday,22:00:00,Single,No,No,No,130,Passenger,Male,15,Remote Australia,Northern Territory - Outback,Coomalie,National or State Highway,No,No,0_to_16,Weekend,Night,1,No,Night
+20225065,WA,7,2022,Sunday,19:27:00,Single,No,No,No,60,Driver,Female,18,-9,-9,-9,-9,No,No,17_to_25,Weekend,Night,1,No,Night
+20221080,NSW,7,2022,Sunday,03:00:00,Single,No,No,No,80,Driver,Male,17,Inner Regional Australia,Sydney - Sutherland,Sutherland,National or State Highway,No,No,17_to_25,Weekend,Night,1,No,Night
+20222021,Vic,7,2022,Sunday,04:50:00,Single,-9,-9,-9,50,Motorcycle rider,Male,18,Major Cities of Australia,Melbourne - North East,Whittlesea,Local Road,No,No,17_to_25,Weekend,Night,1,-9,Night
+20223099,Qld,7,2022,Friday,15:00:00,Multiple,No,Yes,No,90,Driver,Male,18,Inner Regional Australia,Gold Coast,Scenic Rim,Sub-arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20221028,NSW,7,2022,Friday,12:05:00,Multiple,No,No,No,100,Motorcycle rider,Male,17,Inner Regional Australia,Richmond - Tweed,Richmond Valley,Sub-arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20222046,Vic,6,2022,Sunday,01:18:00,Multiple,No,No,No,80,Passenger,Male,18,Inner Regional Australia,Warrnambool and South West,Corangamite,Local Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20225143,WA,6,2022,Saturday,13:28:00,Single,No,No,No,110,Passenger,Male,17,-9,-9,-9,-9,No,No,17_to_25,Weekend,Day,2,No,Day
+20225143,WA,6,2022,Saturday,13:28:00,Single,No,No,No,110,Driver,Male,17,-9,-9,-9,-9,No,No,17_to_25,Weekend,Day,2,No,Day
+20221159,NSW,6,2022,Saturday,13:08:00,Single,No,No,No,110,Passenger,Male,18,Inner Regional Australia,Southern Highlands and Shoalhaven,Wingecarribee,National or State Highway,No,No,17_to_25,Weekend,Day,1,No,Day
+20225128,WA,6,2022,Saturday,14:48:00,Single,No,No,No,110,Passenger,Female,18,-9,-9,-9,-9,No,No,17_to_25,Weekend,Day,1,No,Day
+20223259,Qld,6,2022,Thursday,15:00:00,Single,No,No,No,60,Passenger,Male,16,Major Cities of Australia,Sunshine Coast,Sunshine Coast,Local Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20221228,NSW,6,2022,Wednesday,12:10:00,Multiple,No,Yes,No,100,Passenger,Female,16,Outer Regional Australia,New England and North West,Walcha,Local Road,No,No,0_to_16,Weekday,Day,2,No,Day
+20221149,NSW,6,2022,Wednesday,17:28:00,Multiple,No,No,No,100,Passenger,Male,16,Outer Regional Australia,New England and North West,Narrabri,Sub-arterial Road,No,No,0_to_16,Weekday,Day,3,No,Day
+20223020,Qld,6,2022,Wednesday,12:00:00,Single,No,No,No,80,Passenger,Female,15,Major Cities of Australia,Logan - Beaudesert,Logan,Local Road,No,No,0_to_16,Weekday,Day,2,No,Day
+20223267,Qld,6,2022,Monday,08:00:00,Single,No,No,No,100,Driver,Male,13,Inner Regional Australia,Darling Downs - Maranoa,Toowoomba,National or State Highway,No,No,0_to_16,Weekday,Day,1,No,Day
+20226006,Tas,6,2022,Tuesday,18:15:00,Multiple,No,Yes,No,80,Passenger,Male,15,Outer Regional Australia,West and North West,Latrobe (Tas.),National or State Highway,No,No,0_to_16,Weekday,Night,2,No,Night
+20223192,Qld,5,2022,Sunday,18:00:00,Multiple,No,No,No,100,Passenger,Male,12,Outer Regional Australia,Mackay - Isaac - Whitsunday,Whitsunday,National or State Highway,No,No,0_to_16,Weekend,Night,1,No,Night
+20223006,Qld,5,2022,Saturday,18:00:00,Multiple,Yes,No,No,60,Motorcycle rider,Male,17,Inner Regional Australia,Mackay - Isaac - Whitsunday,Mackay,Local Road,No,No,17_to_25,Weekend,Night,1,Yes,Night
+20222235,Vic,5,2022,Saturday,21:00:00,Single,No,No,No,100,Passenger,Male,17,Inner Regional Australia,Latrobe - Gippsland,Wellington,Sub-arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20225084,WA,5,2022,Saturday,12:42:00,Single,No,No,No,110,Passenger,Female,15,-9,-9,-9,-9,No,No,0_to_16,Weekend,Day,1,No,Day
+20224013,SA,5,2022,Sunday,13:53:00,Single,No,No,No,60,Driver,Male,17,Major Cities of Australia,Adelaide - Central and Hills,Campbelltown (SA),Sub-arterial Road,No,No,17_to_25,Weekend,Day,2,No,Day
+20224013,SA,5,2022,Sunday,13:53:00,Single,No,No,No,60,Passenger,Male,17,Major Cities of Australia,Adelaide - Central and Hills,Campbelltown (SA),Sub-arterial Road,No,No,17_to_25,Weekend,Day,2,No,Day
+20226042,Tas,5,2022,Monday,12:55:00,Single,No,No,No,100,Passenger,Male,16,Outer Regional Australia,West and North West,Latrobe (Tas.),Sub-arterial Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20226045,Tas,5,2022,Tuesday,16:45:00,Multiple,No,No,No,100,Passenger,Male,16,Inner Regional Australia,Hobart,Sorell,Collector Road,No,No,0_to_16,Weekday,Day,2,No,Day
+20224005,SA,5,2022,Tuesday,17:36:00,Multiple,No,No,No,80,Motorcycle rider,Male,18,Major Cities of Australia,Adelaide - North,Playford,Sub-arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20221139,NSW,4,2022,Sunday,04:48:00,Single,No,No,No,80,Passenger,Male,16,Inner Regional Australia,Sydney - Outer South West,Wollondilly,Arterial Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20221233,NSW,4,2022,Monday,04:10:00,Single,No,No,No,50,Passenger,Male,17,Major Cities of Australia,Sydney - Sutherland,Sutherland,Collector Road,No,Yes,17_to_25,Weekend,Night,1,No,Night
+20225110,WA,4,2022,Saturday,09:54:00,Single,No,No,No,110,Driver,Male,18,-9,-9,-9,-9,No,No,17_to_25,Weekend,Day,1,No,Day
+20221118,NSW,4,2022,Tuesday,20:40:00,Multiple,No,No,No,70,Passenger,Female,16,Major Cities of Australia,Sydney - South West,Liverpool,Arterial Road,No,No,0_to_16,Weekday,Night,1,No,Night
+20221110,NSW,4,2022,Thursday,03:00:00,Single,No,No,No,100,Passenger,Male,15,Outer Regional Australia,Murray,Wentworth,National or State Highway,No,Yes,0_to_16,Weekday,Night,2,No,Night
+20221110,NSW,4,2022,Thursday,03:00:00,Single,No,No,No,100,Passenger,Male,15,Outer Regional Australia,Murray,Wentworth,National or State Highway,No,Yes,0_to_16,Weekday,Night,2,No,Night
+20222135,Vic,4,2022,Tuesday,19:47:00,Single,No,No,No,80,Pedestrian,Female,15,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula,Collector Road,No,No,0_to_16,Weekday,Night,1,No,Night
+20224016,SA,3,2022,Saturday,21:05:00,Single,No,No,No,50,Passenger,Male,16,Inner Regional Australia,Adelaide - Central and Hills,Adelaide Hills,Local Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20222079,Vic,3,2022,Wednesday,19:55:00,Multiple,No,No,No,100,Motorcycle rider,Male,18,Inner Regional Australia,Bendigo,Greater Bendigo,Arterial Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20223062,Qld,3,2022,Tuesday,14:00:00,Single,No,No,No,100,Driver,Male,16,Inner Regional Australia,Darling Downs - Maranoa,Southern Downs,National or State Highway,No,No,0_to_16,Weekday,Day,1,No,Day
+20221145,NSW,3,2022,Wednesday,22:30:00,Single,No,No,No,70,Motorcycle rider,Male,18,Major Cities of Australia,Sydney - South West,Liverpool,Arterial Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20225091,WA,2,2022,Sunday,01:44:00,Multiple,No,No,No,80,Other/-9,Male,13,-9,-9,-9,-9,No,No,0_to_16,Weekend,Night,1,No,Night
+20223042,Qld,2,2022,Monday,01:00:00,Single,No,No,No,60,Passenger,Male,14,Outer Regional Australia,Cairns,Cairns,Collector Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20221065,NSW,2,2022,Saturday,21:10:00,Multiple,No,No,No,80,Passenger,Male,18,Inner Regional Australia,Sydney - Outer West and Blue Mountains,Wollondilly,Sub-arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20221189,NSW,2,2022,Saturday,07:30:00,Multiple,No,No,No,50,Motorcycle rider,Male,16,Major Cities of Australia,Sydney - City and Inner South,Sydney,Collector Road,No,No,0_to_16,Weekend,Day,1,No,Day
+20222105,Vic,2,2022,Monday,21:20:00,Single,No,No,No,100,Driver,Male,18,Inner Regional Australia,Melbourne - North East,Murrindindi,Local Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20223079,Qld,2,2022,Friday,22:00:00,Single,No,No,No,50,Pedestrian,Female,12,Inner Regional Australia,Central Queensland,Gladstone,Local Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20221016,NSW,2,2022,Sunday,04:20:00,Single,No,No,No,80,Pedestrian,Male,18,Inner Regional Australia,Sydney - Outer South West,Wollondilly,Arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20221239,NSW,1,2022,Sunday,20:20:00,Multiple,No,No,No,100,Driver,Male,15,Inner Regional Australia,Mid North Coast,Mid-Coast,Local Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20222130,Vic,1,2022,Saturday,06:30:00,Single,No,No,No,60,Motorcycle rider,Male,17,Major Cities of Australia,Melbourne - North West,Hume,Collector Road,Yes,No,17_to_25,Weekend,Day,1,No,Day
+20223124,Qld,1,2022,Tuesday,13:00:00,Multiple,No,Yes,No,80,Motorcycle rider,Male,14,Outer Regional Australia,Queensland - Outback,Mareeba,Sub-arterial Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20223065,Qld,1,2022,Friday,13:00:00,Single,No,No,No,60,Driver,Male,17,Major Cities of Australia,Sunshine Coast,Sunshine Coast,Collector Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20223103,Qld,1,2022,Monday,15:00:00,Single,No,No,No,60,Passenger,Male,17,Major Cities of Australia,Sunshine Coast,Sunshine Coast,Local Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20221009,NSW,1,2022,Friday,12:05:00,Multiple,No,No,No,100,Driver,Female,17,Outer Regional Australia,Capital Region,Eurobodalla,National or State Highway,No,No,17_to_25,Weekday,Day,1,No,Day
+20222042,Vic,1,2022,Monday,16:38:00,Single,No,No,No,80,Driver,Male,18,Outer Regional Australia,Hume,Mansfield,Arterial Road,Yes,No,17_to_25,Weekday,Day,1,No,Day
+20222064,Vic,1,2022,Wednesday,21:05:00,Single,No,No,No,100,Pedestrian,Female,18,Inner Regional Australia,Bendigo,Loddon,Sub-arterial Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20211001,NSW,12,2021,Sunday,05:00:00,Single,No,No,No,80,Driver,Male,17,Outer Regional Australia,Capital Region,Snowy Monaro Regional,Sub-arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20211040,NSW,12,2021,Wednesday,05:42:00,Multiple,No,No,No,70,Motorcycle rider,Male,17,Major Cities of Australia,Illawarra,Shellharbour,Local Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20213091,Qld,12,2021,Friday,17:00:00,Single,No,No,No,60,Passenger,Female,12,Remote Australia,Queensland - Outback,Cook,Local Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20211003,NSW,12,2021,Thursday,10:20:00,Multiple,No,Yes,No,60,Driver,Male,18,Major Cities of Australia,Sydney - South West,Liverpool,Collector Road,Yes,No,17_to_25,Weekday,Day,1,No,Day
+20212023,Vic,12,2021,Wednesday,18:32:00,Single,No,No,No,60,Driver,Male,15,Major Cities of Australia,Melbourne - North West,Hume,Collector Road,No,No,0_to_16,Weekday,Night,1,No,Night
+20213119,Qld,12,2021,Friday,02:00:00,Single,No,No,No,100,Passenger,Female,16,Inner Regional Australia,Darling Downs - Maranoa,Southern Downs,Local Road,No,No,0_to_16,Weekday,Night,1,No,Night
+20211260,NSW,12,2021,Wednesday,13:50:00,Multiple,No,No,No,80,Motorcycle rider,Male,18,Inner Regional Australia,Richmond - Tweed,Lismore,Arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20211219,NSW,12,2021,Tuesday,01:00:00,Single,No,No,No,100,Driver,Male,16,Outer Regional Australia,Coffs Harbour - Grafton,Clarence Valley,Arterial Road,No,No,0_to_16,Weekday,Night,1,No,Night
+20212059,Vic,11,2021,Saturday,20:17:00,Single,No,No,No,100,Driver,Male,17,Major Cities of Australia,Melbourne - West,Melton,National or State Highway,No,No,17_to_25,Weekend,Night,1,No,Night
+20213025,Qld,11,2021,Thursday,22:00:00,Single,No,No,No,80,Passenger,Male,18,Remote Australia,Mackay - Isaac - Whitsunday,Isaac,Sub-arterial Road,No,No,17_to_25,Weekday,Night,3,No,Night
+20216017,Tas,11,2021,Saturday,09:20:00,Multiple,No,No,No,100,Driver,Male,18,Outer Regional Australia,South East,Southern Midlands,Sub-arterial Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20211185,NSW,11,2021,Wednesday,06:15:00,Multiple,No,No,Yes,100,Driver,Male,18,Outer Regional Australia,Central West,Forbes,Sub-arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20212055,Vic,11,2021,Tuesday,10:21:00,Multiple,No,No,Yes,60,Driver,Female,18,Inner Regional Australia,Latrobe - Gippsland,South Gippsland,National or State Highway,No,No,17_to_25,Weekday,Day,1,No,Day
+20211214,NSW,10,2021,Monday,01:00:00,Single,No,No,No,100,Motorcycle pillion passenger,Female,17,Outer Regional Australia,Far West and Orana,Narromine,Local Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20213125,Qld,10,2021,Friday,22:00:00,Single,No,No,No,100,Driver,Female,18,Very Remote Australia,Queensland - Outback,Doomadgee,Collector Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20213123,Qld,10,2021,Saturday,21:00:00,Single,No,No,No,60,Passenger,Male,17,Inner Regional Australia,Toowoomba,Toowoomba,Local Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20216014,Tas,10,2021,Sunday,01:00:00,Single,No,No,No,80,Passenger,Male,18,Outer Regional Australia,South East,Central Highlands (Tas.),Access road,No,No,17_to_25,Weekend,Night,1,No,Night
+20211204,NSW,10,2021,Friday,23:30:00,Single,No,No,No,60,Motorcycle rider,Male,18,Major Cities of Australia,Sydney - Outer South West,Campbelltown,Collector Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20213163,Qld,10,2021,Tuesday,04:00:00,Single,No,No,No,5,Driver,Male,18,Major Cities of Australia,Brisbane - East,Redland,Collector Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20213067,Qld,10,2021,Thursday,01:00:00,Single,No,No,No,80,Driver,Male,17,Inner Regional Australia,Logan - Beaudesert,Logan,Local Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20215070,WA,10,2021,Tuesday,17:05:00,Single,No,No,No,110,Passenger,Male,14,Inner Regional Australia,Bunbury,Donnybrook-Balingup,Local Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20215115,WA,9,2021,Thursday,22:01:00,Single,No,No,No,70,Passenger,Male,17,Major Cities of Australia,Perth - South East,Armadale,Arterial Road,No,No,17_to_25,Weekday,Night,2,No,Night
+20215115,WA,9,2021,Thursday,22:01:00,Single,No,No,No,70,Passenger,Male,15,Major Cities of Australia,Perth - South East,Armadale,Arterial Road,No,No,0_to_16,Weekday,Night,2,No,Night
+20212096,Vic,9,2021,Thursday,19:25:00,Multiple,No,No,No,60,Passenger,Male,17,Major Cities of Australia,Melbourne - West,Wyndham,Sub-arterial Road,No,No,17_to_25,Weekday,Night,4,No,Night
+20212096,Vic,9,2021,Thursday,19:25:00,Multiple,No,No,No,60,Driver,Male,16,Major Cities of Australia,Melbourne - West,Wyndham,Sub-arterial Road,No,No,0_to_16,Weekday,Night,4,No,Night
+20212096,Vic,9,2021,Thursday,19:25:00,Multiple,No,No,No,60,Passenger,Male,15,Major Cities of Australia,Melbourne - West,Wyndham,Sub-arterial Road,No,No,0_to_16,Weekday,Night,4,No,Night
+20212096,Vic,9,2021,Thursday,19:25:00,Multiple,No,No,No,60,Passenger,Male,16,Major Cities of Australia,Melbourne - West,Wyndham,Sub-arterial Road,No,No,0_to_16,Weekday,Night,4,No,Night
+20213177,Qld,8,2021,Sunday,05:00:00,Multiple,No,No,Yes,100,Passenger,Male,18,Outer Regional Australia,Mackay - Isaac - Whitsunday,Isaac,National or State Highway,No,No,17_to_25,Weekend,Night,1,No,Night
+20214078,SA,8,2021,Sunday,05:50:00,Multiple,No,Yes,No,110,Driver,Male,18,Outer Regional Australia,South Australia - South East,Loxton Waikerie,National or State Highway,No,No,17_to_25,Weekend,Night,1,No,Night
+20211086,NSW,8,2021,Saturday,15:25:00,Single,No,No,No,70,Motorcycle rider,Male,18,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,Local Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20212050,Vic,8,2021,Thursday,15:52:00,Single,No,No,No,100,Passenger,Male,16,Inner Regional Australia,Warrnambool and South West,Moyne,Local Road,No,No,0_to_16,Weekday,Day,2,No,Day
+20211124,NSW,8,2021,Tuesday,09:10:00,Single,No,No,No,100,Driver,Male,18,Inner Regional Australia,Mid North Coast,Kempsey,Local Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20217027,NT,8,2021,Saturday,19:05:00,Single,No,No,No,50,Pedestrian,Male,15,Outer Regional Australia,Darwin,Darwin,Sub-arterial Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20212043,Vic,8,2021,Sunday,17:00:00,Single,No,No,No,80,Pedestrian,Male,16,Major Cities of Australia,Melbourne - Inner South,Kingston (Vic.),Local Road,No,No,0_to_16,Weekend,Day,1,No,Day
+20213227,Qld,8,2021,Monday,20:00:00,Multiple,No,No,No,110,Pedestrian,Male,17,Major Cities of Australia,Sunshine Coast,Sunshine Coast,National or State Highway,No,No,17_to_25,Weekday,Night,1,No,Night
+20215036,WA,7,2021,Sunday,21:53:00,Single,No,No,No,-9,Passenger,Female,12,-9,-9,-9,-9,No,No,0_to_16,Weekend,Night,1,No,Night
+20215011,WA,7,2021,Saturday,01:59:00,Single,No,No,No,110,Driver,Male,18,Outer Regional Australia,Western Australia - Wheat Belt,Kojonup,Arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20213048,Qld,7,2021,Friday,22:00:00,Multiple,No,No,No,70,Passenger,Male,17,Major Cities of Australia,Moreton Bay - North,Moreton Bay,Collector Road,No,No,17_to_25,Weekend,Night,2,No,Night
+20213048,Qld,7,2021,Friday,22:00:00,Multiple,No,No,No,70,Driver,Male,18,Major Cities of Australia,Moreton Bay - North,Moreton Bay,Collector Road,No,No,17_to_25,Weekend,Night,2,No,Night
+20212166,Vic,7,2021,Sunday,01:10:00,Single,No,No,No,60,Passenger,Male,18,Major Cities of Australia,Melbourne - North East,Whittlesea,Local Road,No,No,17_to_25,Weekend,Night,2,No,Night
+20212166,Vic,7,2021,Sunday,01:10:00,Single,No,No,No,60,Driver,Male,18,Major Cities of Australia,Melbourne - North East,Whittlesea,Local Road,No,No,17_to_25,Weekend,Night,2,No,Night
+20213201,Qld,7,2021,Saturday,20:00:00,Multiple,No,No,No,70,Motorcycle rider,Male,17,Inner Regional Australia,Sunshine Coast,Noosa,Sub-arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20212152,Vic,7,2021,Wednesday,01:19:00,Single,No,No,No,70,Passenger,Male,17,Major Cities of Australia,Melbourne - Inner East,Whitehorse,National or State Highway,No,No,17_to_25,Weekday,Night,1,No,Night
+20213070,Qld,7,2021,Thursday,10:00:00,Multiple,No,No,Yes,100,Passenger,Female,12,Inner Regional Australia,Darling Downs - Maranoa,Toowoomba,Sub-arterial Road,No,No,0_to_16,Weekday,Day,2,No,Day
+20213054,Qld,7,2021,Monday,17:00:00,Single,No,No,No,50,Motorcycle rider,Male,17,Major Cities of Australia,Logan - Beaudesert,Logan,Local Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20211046,NSW,7,2021,Friday,20:14:00,Multiple,No,Yes,No,100,Pedestrian,Male,15,Inner Regional Australia,Central West,Orange,National or State Highway,No,No,0_to_16,Weekend,Night,1,No,Night
+20217016,NT,6,2021,Wednesday,18:30:00,Single,No,No,No,110,Driver,Male,16,Very Remote Australia,Northern Territory - Outback,Central Desert,Sub-arterial Road,No,No,0_to_16,Weekday,Night,1,No,Night
+20211063,NSW,6,2021,Sunday,14:00:00,Single,No,No,No,100,Motorcycle rider,Male,18,Outer Regional Australia,Central West,Bland,Local Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20213027,Qld,6,2021,Monday,06:00:00,Multiple,No,No,Yes,100,Driver,Male,18,Inner Regional Australia,Darling Downs - Maranoa,Toowoomba,National or State Highway,No,No,17_to_25,Weekday,Day,1,No,Day
+20213239,Qld,6,2021,Wednesday,06:00:00,Single,No,No,No,50,Driver,Male,13,Outer Regional Australia,Mackay - Isaac - Whitsunday,Whitsunday,Local Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20215145,WA,6,2021,Wednesday,09:29:00,Single,No,No,No,50,Driver,Female,14,Major Cities of Australia,Perth - South East,Belmont,Local Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20211041,NSW,6,2021,Thursday,06:55:00,Single,No,No,No,100,Driver,Female,17,Outer Regional Australia,New England and North West,Tamworth Regional,National or State Highway,No,No,17_to_25,Weekday,Day,1,No,Day
+20215002,WA,6,2021,Tuesday,08:51:00,Single,No,No,No,110,Driver,Male,17,Inner Regional Australia,Perth - North East,Mundaring,Local Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20215120,WA,5,2021,Saturday,23:25:00,Single,No,No,No,110,Passenger,Male,12,Outer Regional Australia,Western Australia - Wheat Belt,Broomehill-Tambellup,Arterial Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20211099,NSW,5,2021,Sunday,01:00:00,Single,No,No,No,50,Motorcycle rider,Male,16,Outer Regional Australia,Richmond - Tweed,Kyogle,Local Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20214011,SA,5,2021,Sunday,20:32:00,Multiple,No,No,No,100,Motorcycle rider,Male,17,Inner Regional Australia,South Australia - South East,Mid Murray,Local Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20211194,NSW,5,2021,Saturday,20:55:00,Single,No,No,No,100,Driver,Male,18,Outer Regional Australia,New England and North West,Uralla,Arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20213095,Qld,5,2021,Sunday,16:00:00,Single,No,No,No,50,Passenger,Male,18,Inner Regional Australia,Moreton Bay - North,Sunshine Coast,Access road,No,No,17_to_25,Weekend,Day,1,No,Day
+20213109,Qld,5,2021,Friday,16:00:00,Single,No,No,No,100,Passenger,Male,16,Outer Regional Australia,Central Queensland,Central Highlands (Qld),Local Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20216027,Tas,5,2021,Thursday,18:02:00,Multiple,No,No,No,50,Motorcycle rider,Male,17,Inner Regional Australia,Launceston and North East,Launceston,Collector Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20211112,NSW,5,2021,Saturday,20:30:00,Single,No,No,No,80,Pedestrian,Female,14,Major Cities of Australia,Sydney - Sutherland,Sutherland,Arterial Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20212154,Vic,5,2021,Thursday,20:45:00,Single,No,No,No,80,Driver,Male,18,Inner Regional Australia,Melbourne - North West,Macedon Ranges,Sub-arterial Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20215125,WA,4,2021,Saturday,20:50:00,Single,No,No,No,110,Passenger,Male,16,Inner Regional Australia,Bunbury,Busselton,Local Road,No,No,0_to_16,Weekend,Night,2,No,Night
+20215125,WA,4,2021,Saturday,20:50:00,Single,No,No,No,110,Passenger,Male,16,Inner Regional Australia,Bunbury,Busselton,Local Road,No,No,0_to_16,Weekend,Night,2,No,Night
+20213036,Qld,4,2021,Sunday,19:00:00,Single,No,No,No,100,Passenger,Male,18,Inner Regional Australia,Wide Bay,Gympie,Local Road,No,No,17_to_25,Weekend,Night,2,No,Night
+20213036,Qld,4,2021,Sunday,19:00:00,Single,No,No,No,100,Driver,Male,18,Inner Regional Australia,Wide Bay,Gympie,Local Road,No,No,17_to_25,Weekend,Night,2,No,Night
+20214025,SA,4,2021,Tuesday,17:47:00,Single,No,No,No,60,Pedestrian,Male,15,Major Cities of Australia,Adelaide - Central and Hills,Norwood Payneham and St Peters,Arterial Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20212122,Vic,3,2021,Saturday,18:32:00,Single,No,No,No,70,Passenger,Female,14,Major Cities of Australia,Melbourne - West,Wyndham,Local Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20214028,SA,3,2021,Sunday,21:50:00,Single,No,No,No,100,Driver,Male,18,Inner Regional Australia,South Australia - South East,Yankalilla,Arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20213063,Qld,3,2021,Friday,15:00:00,Multiple,No,No,Yes,100,Motorcycle rider,Male,18,Outer Regional Australia,Townsville,Burdekin,National or State Highway,No,No,17_to_25,Weekday,Day,1,No,Day
+20212101,Vic,3,2021,Wednesday,03:19:00,Single,No,No,No,80,Motorcycle rider,Male,16,Major Cities of Australia,Melbourne - Inner South,Kingston (Vic.),National or State Highway,No,No,0_to_16,Weekday,Night,1,No,Night
+20214077,SA,2,2021,Saturday,21:00:00,Multiple,No,No,No,100,Motorcycle rider,Male,16,Inner Regional Australia,Barossa - Yorke - Mid North,Barossa,Collector Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20211092,NSW,2,2021,Sunday,02:45:00,Single,No,No,No,100,Driver,Male,16,Inner Regional Australia,Capital Region,Eurobodalla,National or State Highway,No,No,0_to_16,Weekend,Night,1,No,Night
+20211002,NSW,2,2021,Saturday,23:00:00,Single,No,No,No,100,Driver,Male,18,Remote Australia,Far West and Orana,Warren,Arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20213147,Qld,2,2021,Saturday,22:00:00,Multiple,No,No,No,70,Driver,Male,17,Major Cities of Australia,Logan - Beaudesert,Logan,Local Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20211186,NSW,2,2021,Saturday,09:10:00,Single,No,No,No,60,Passenger,Male,12,Major Cities of Australia,Central Coast,Central Coast,Local Road,No,No,0_to_16,Weekend,Day,1,No,Day
+20214060,SA,2,2021,Tuesday,15:20:00,Single,Yes,No,No,50,Pedestrian,Male,13,Inner Regional Australia,Barossa - Yorke - Mid North,Wakefield,Local Road,No,No,0_to_16,Weekday,Day,1,Yes,Day
+20215061,WA,1,2021,Sunday,15:05:00,Single,No,No,No,110,Passenger,Female,17,Outer Regional Australia,Western Australia - Wheat Belt,Plantagenet,National or State Highway,No,No,17_to_25,Weekend,Day,1,No,Day
+20211091,NSW,1,2021,Sunday,11:00:00,Single,No,No,No,100,Passenger,Female,18,Outer Regional Australia,Hunter Valley exc Newcastle,Dungog,Local Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20215136,WA,1,2021,Tuesday,17:26:00,Multiple,No,No,No,50,Motorcycle rider,Male,17,Major Cities of Australia,Perth - South East,Canning,Local Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20211128,NSW,1,2021,Friday,12:28:00,Multiple,No,No,No,100,Driver,Female,18,Outer Regional Australia,Central West,Cowra,Arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20213038,Qld,1,2021,Thursday,00:00:00,Single,No,No,No,50,Passenger,Male,16,Inner Regional Australia,Central Queensland,Livingstone,Sub-arterial Road,No,No,0_to_16,Weekday,Night,1,No,Night
+20211037,NSW,1,2021,Thursday,12:35:00,Single,No,No,No,70,Pedestrian,Male,17,Major Cities of Australia,Sydney - South West,Liverpool,National or State Highway,No,No,17_to_25,Weekday,Day,1,No,Day
+20211076,NSW,1,2021,Friday,22:10:00,Multiple,No,No,No,60,Pedestrian,Female,16,Inner Regional Australia,Southern Highlands and Shoalhaven,Wingecarribee,Arterial Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20203092,Qld,12,2020,Friday,22:00:00,Multiple,No,No,No,60,Motorcycle pillion passenger,Male,17,Outer Regional Australia,Cairns,Cairns,Local Road,No,No,17_to_25,Weekend,Night,2,No,Night
+20206016,Tas,12,2020,Friday,21:25:00,Single,No,No,No,50,Motorcycle rider,Male,14,Inner Regional Australia,Hobart,Glenorchy,Local Road,Yes,No,0_to_16,Weekend,Night,1,No,Night
+20203018,Qld,12,2020,Tuesday,04:00:00,Single,No,No,No,80,Driver,Male,18,Major Cities of Australia,Sunshine Coast,Sunshine Coast,Local Road,Yes,No,17_to_25,Weekday,Night,1,No,Night
+20204025,SA,12,2020,Saturday,08:01:00,Single,No,No,No,100,Motorcycle rider,Female,17,Outer Regional Australia,South Australia - South East,Tatiara,Collector Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20201236,NSW,12,2020,Sunday,10:30:00,Single,No,No,No,50,Driver,Male,18,Inner Regional Australia,Capital Region,Upper Lachlan,Sub-arterial Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20202037,Vic,12,2020,Thursday,10:24:00,Multiple,No,No,No,100,Driver,Female,16,Outer Regional Australia,Warrnambool and South West,Glenelg,Arterial Road,Yes,No,0_to_16,Weekday,Day,2,No,Day
+20201047,NSW,12,2020,Thursday,14:30:00,Multiple,No,No,No,50,Motorcycle rider,Male,18,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,Collector Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20203218,Qld,12,2020,Monday,06:00:00,Multiple,No,No,Yes,100,Passenger,Female,17,Very Remote Australia,Queensland - Outback,Cloncurry,National or State Highway,Yes,No,17_to_25,Weekday,Day,2,No,Day
+20201086,NSW,12,2020,Thursday,23:23:00,Single,No,No,No,80,Passenger,Male,18,Major Cities of Australia,Sydney - South West,Camden,Local Road,Yes,No,17_to_25,Weekday,Night,1,No,Night
+20201177,NSW,11,2020,Sunday,04:20:00,Single,No,No,No,60,Passenger,Male,15,Major Cities of Australia,Sydney - South West,Fairfield,Arterial Road,No,No,0_to_16,Weekend,Night,2,No,Night
+20201177,NSW,11,2020,Sunday,04:20:00,Single,No,No,No,60,Driver,Male,17,Major Cities of Australia,Sydney - South West,Fairfield,Arterial Road,No,No,17_to_25,Weekend,Night,2,No,Night
+20205074,WA,11,2020,Saturday,19:48:00,Single,No,No,No,110,Driver,Female,17,Inner Regional Australia,Mandurah,Murray,Local Road,No,No,17_to_25,Weekend,Night,2,No,Night
+20205074,WA,11,2020,Saturday,19:48:00,Single,No,No,No,110,Passenger,Male,17,Inner Regional Australia,Mandurah,Murray,Local Road,No,No,17_to_25,Weekend,Night,2,No,Night
+20203101,Qld,11,2020,Sunday,13:00:00,Single,No,No,No,100,Passenger,Male,13,Inner Regional Australia,Ipswich,Scenic Rim,Sub-arterial Road,No,No,0_to_16,Weekend,Day,2,No,Day
+20202071,Vic,11,2020,Sunday,07:37:00,Single,No,No,No,50,Driver,Male,17,Major Cities of Australia,Melbourne - North East,Whittlesea,Local Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20203051,Qld,11,2020,Saturday,10:00:00,Single,No,No,No,100,Passenger,Female,18,Inner Regional Australia,Central Queensland,Gladstone,National or State Highway,No,No,17_to_25,Weekend,Day,1,No,Day
+20204038,SA,11,2020,Tuesday,13:15:00,Multiple,No,No,No,100,Driver,Female,18,Inner Regional Australia,South Australia - South East,Victor Harbor,Sub-arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20205101,WA,11,2020,Friday,01:25:00,Single,No,No,No,50,Passenger,Female,15,Major Cities of Australia,Mandurah,Murray,Local Road,No,No,0_to_16,Weekday,Night,1,No,Night
+20204041,SA,11,2020,Thursday,22:30:00,Single,No,No,No,100,Driver,Male,16,Outer Regional Australia,Barossa - Yorke - Mid North,Copper Coast,Access road,No,No,0_to_16,Weekday,Night,1,No,Night
+20201251,NSW,10,2020,Wednesday,03:33:00,Single,No,No,No,50,Driver,Male,18,Major Cities of Australia,Sydney - Parramatta,Cumberland,Arterial Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20208001,ACT,10,2020,Saturday,01:50:00,Single,No,No,No,50,Passenger,Female,16,-9,-9,-9,-9,No,No,0_to_16,Weekend,Night,1,No,Night
+20205105,WA,10,2020,Tuesday,18:30:00,Single,No,No,No,110,Driver,Male,17,Very Remote Australia,Western Australia - Outback (South),Menzies,Local Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20201104,NSW,10,2020,Saturday,14:50:00,Single,No,No,No,100,Driver,Male,17,Inner Regional Australia,Richmond - Tweed,Richmond Valley,Sub-arterial Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20206003,Tas,10,2020,Friday,12:50:00,Multiple,No,No,No,110,Passenger,Female,15,Outer Regional Australia,Launceston and North East,Northern Midlands,National or State Highway,No,No,0_to_16,Weekday,Day,3,No,Day
+20201021,NSW,10,2020,Tuesday,11:33:00,Multiple,No,No,No,50,Motorcycle rider,Male,18,Major Cities of Australia,Illawarra,Wollongong,Local Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20203144,Qld,10,2020,Monday,22:00:00,Single,No,No,No,60,Passenger,Male,16,Inner Regional Australia,Darling Downs - Maranoa,Toowoomba,Sub-arterial Road,No,No,0_to_16,Weekday,Night,1,No,Night
+20205004,WA,10,2020,Friday,05:30:00,Single,No,No,No,90,Driver,Male,18,Inner Regional Australia,Bunbury,Busselton,Local Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20202130,Vic,9,2020,Monday,03:11:00,Multiple,No,No,No,60,Passenger,Male,16,Inner Regional Australia,Bendigo,Greater Bendigo,National or State Highway,No,No,0_to_16,Weekend,Night,1,No,Night
+20201127,NSW,9,2020,Monday,19:05:00,Single,No,No,No,50,Driver,Male,17,Inner Regional Australia,Richmond - Tweed,Lismore,Local Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20203248,Qld,9,2020,Sunday,06:00:00,Multiple,No,No,Yes,100,Driver,Male,18,Outer Regional Australia,Cairns,Cassowary Coast,Sub-arterial Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20203204,Qld,8,2020,Monday,20:00:00,Single,No,No,No,100,Passenger,Female,17,Outer Regional Australia,Townsville,Charters Towers,National or State Highway,No,No,17_to_25,Weekday,Night,1,No,Night
+20203023,Qld,8,2020,Sunday,01:00:00,Single,No,No,No,50,Passenger,Male,18,Inner Regional Australia,Wide Bay,Gympie,Access road,No,No,17_to_25,Weekend,Night,1,No,Night
+20203211,Qld,8,2020,Tuesday,19:00:00,Single,No,No,No,70,Passenger,Female,17,Major Cities of Australia,Moreton Bay - South,Moreton Bay,Collector Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20207014,NT,8,2020,Saturday,17:00:00,Single,No,No,No,130,Driver,Male,18,Very Remote Australia,Northern Territory - Outback,Barkly,National or State Highway,No,No,17_to_25,Weekend,Day,2,No,Day
+20203184,Qld,8,2020,Sunday,17:00:00,Multiple,No,No,No,60,Passenger,Female,17,Major Cities of Australia,Gold Coast,Gold Coast,Collector Road,No,No,17_to_25,Weekend,Day,3,No,Day
+20203046,Qld,8,2020,Friday,11:00:00,Multiple,No,No,No,70,Pedal cyclist,Male,14,Major Cities of Australia,Logan - Beaudesert,Logan,Sub-arterial Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20202054,Vic,7,2020,Wednesday,22:50:00,Single,No,No,No,100,Driver,Male,18,Inner Regional Australia,Shepparton,Moira,National or State Highway,No,No,17_to_25,Weekday,Night,2,No,Night
+20202054,Vic,7,2020,Wednesday,22:50:00,Single,No,No,No,100,Passenger,Male,17,Inner Regional Australia,Shepparton,Moira,National or State Highway,No,No,17_to_25,Weekday,Night,2,No,Night
+20201196,NSW,7,2020,Saturday,23:10:00,Single,No,No,No,50,Passenger,Male,17,Major Cities of Australia,Sydney - Northern Beaches,Northern Beaches,Local Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20203183,Qld,7,2020,Sunday,20:00:00,Single,No,No,No,100,Passenger,Male,16,Very Remote Australia,Queensland - Outback,Lockhart River,Collector Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20205016,WA,7,2020,Sunday,02:30:00,Single,No,No,No,60,Passenger,Male,18,-9,-9,-9,-9,No,No,17_to_25,Weekend,Night,1,No,Night
+20201092,NSW,7,2020,Saturday,15:20:00,Single,No,No,No,100,Passenger,Male,14,Outer Regional Australia,Far West and Orana,Warrumbungle,National or State Highway,No,No,0_to_16,Weekend,Day,2,No,Day
+20203135,Qld,7,2020,Friday,17:00:00,Multiple,No,No,Yes,110,Driver,Male,18,Outer Regional Australia,Darling Downs - Maranoa,Goondiwindi,National or State Highway,No,No,17_to_25,Weekday,Day,1,No,Day
+20204002,SA,7,2020,Wednesday,08:44:00,Multiple,No,Yes,No,60,Motorcycle rider,Male,18,Major Cities of Australia,Adelaide - North,Salisbury,Local Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20203238,Qld,7,2020,Monday,07:00:00,Single,No,No,No,100,Driver,Male,18,Remote Australia,Darling Downs - Maranoa,Balonne,Collector Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20201113,NSW,7,2020,Tuesday,11:40:00,Single,No,No,No,80,Driver,Female,17,Inner Regional Australia,Richmond - Tweed,Ballina,Sub-arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20201262,NSW,7,2020,Wednesday,15:05:00,Single,Yes,No,No,40,Pedestrian,Female,14,Inner Regional Australia,Southern Highlands and Shoalhaven,Shoalhaven,Local Road,No,No,0_to_16,Weekday,Day,1,Yes,Day
+20203129,Qld,6,2020,Sunday,04:00:00,Single,No,No,No,70,Passenger,Male,13,Outer Regional Australia,Townsville,Townsville,National or State Highway,No,No,0_to_16,Weekend,Night,4,No,Night
+20203129,Qld,6,2020,Sunday,04:00:00,Single,No,No,No,70,Passenger,Female,14,Outer Regional Australia,Townsville,Townsville,National or State Highway,No,No,0_to_16,Weekend,Night,4,No,Night
+20203129,Qld,6,2020,Sunday,04:00:00,Single,No,No,No,70,Passenger,Female,14,Outer Regional Australia,Townsville,Townsville,National or State Highway,No,No,0_to_16,Weekend,Night,4,No,Night
+20203129,Qld,6,2020,Sunday,04:00:00,Single,No,No,No,70,Passenger,Female,17,Outer Regional Australia,Townsville,Townsville,National or State Highway,No,No,17_to_25,Weekend,Night,4,No,Night
+20205031,WA,6,2020,Sunday,00:32:00,Single,No,No,No,70,Driver,Male,18,Major Cities of Australia,Perth - South East,Canning,Arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20203165,Qld,6,2020,Friday,01:00:00,Multiple,No,No,Yes,100,Passenger,Female,17,Inner Regional Australia,Wide Bay,Fraser Coast,National or State Highway,No,No,17_to_25,Weekday,Night,2,No,Night
+20205120,WA,6,2020,Tuesday,03:39:00,Single,No,No,No,100,Driver,Male,18,Inner Regional Australia,Mandurah,Murray,Arterial Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20201167,NSW,6,2020,Wednesday,14:48:00,Multiple,No,No,Yes,100,Motorcycle rider,Male,13,Outer Regional Australia,Far West and Orana,Narromine,Local Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20205124,WA,6,2020,Monday,15:55:00,Multiple,No,No,No,110,Pedal cyclist,Male,16,Inner Regional Australia,Bunbury,Capel,Local Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20201260,NSW,6,2020,Monday,13:14:00,Multiple,No,No,No,80,Driver,Female,17,Inner Regional Australia,Mid North Coast,Mid-Coast,Arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20201234,NSW,5,2020,Sunday,23:30:00,Multiple,No,No,No,50,Motorcycle pillion passenger,Female,17,Major Cities of Australia,Illawarra,Wollongong,Local Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20204021,SA,5,2020,Friday,19:46:00,Multiple,No,No,No,80,Passenger,Male,17,Major Cities of Australia,Adelaide - North,Playford,National or State Highway,No,No,17_to_25,Weekend,Night,2,No,Night
+20204032,SA,5,2020,Thursday,17:40:00,Multiple,No,No,No,100,Motorcycle rider,Male,16,Inner Regional Australia,Barossa - Yorke - Mid North,Clare and Gilbert Valleys,Collector Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20208004,ACT,4,2020,Saturday,11:30:00,Multiple,No,No,No,80,Driver,Male,18,Major Cities of Australia,Australian Capital Territory,Unincorporated ACT,Arterial Road,No,No,17_to_25,Weekend,Day,2,No,Day
+20205122,WA,4,2020,Friday,17:54:00,Single,No,No,No,110,Driver,Female,17,Outer Regional Australia,Bunbury,Nannup,Arterial Road,No,Yes,17_to_25,Weekday,Day,1,No,Day
+20205066,WA,3,2020,Saturday,04:49:00,Single,No,No,No,110,Driver,Female,18,Inner Regional Australia,Western Australia - Wheat Belt,Gingin,Arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20202079,Vic,3,2020,Saturday,21:40:00,Single,No,No,No,100,Driver,Female,18,Inner Regional Australia,Latrobe - Gippsland,Latrobe (Vic.),National or State Highway,No,No,17_to_25,Weekend,Night,1,No,Night
+20201165,NSW,3,2020,Sunday,00:10:00,Single,No,No,No,100,Driver,Male,18,Outer Regional Australia,Central West,Parkes,Sub-arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20201194,NSW,3,2020,Saturday,04:21:00,Single,No,No,No,50,Passenger,Male,17,Major Cities of Australia,Central Coast,Central Coast,Collector Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20202162,Vic,3,2020,Saturday,04:17:00,Single,No,No,No,60,Driver,Male,18,Major Cities of Australia,Melbourne - Outer East,Yarra Ranges,Arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20201169,NSW,3,2020,Saturday,06:05:00,Single,No,No,No,100,Driver,Male,17,Outer Regional Australia,Riverina,Temora,Arterial Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20201079,NSW,3,2020,Tuesday,11:30:00,Single,No,No,No,100,Driver,Female,18,Inner Regional Australia,Central West,Cabonne,Sub-arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20202019,Vic,3,2020,Wednesday,15:14:00,Multiple,No,No,No,80,Pedal cyclist,Male,14,Major Cities of Australia,Mornington Peninsula,Frankston,National or State Highway,No,No,0_to_16,Weekday,Day,1,No,Day
+20203201,Qld,3,2020,Sunday,03:00:00,Single,No,No,No,50,Pedestrian,Female,15,Inner Regional Australia,Mackay - Isaac - Whitsunday,Mackay,Local Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20205099,WA,2,2020,Saturday,21:51:00,Single,No,No,No,50,Passenger,Male,18,Major Cities of Australia,Perth - South West,Rockingham,Local Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20201188,NSW,2,2020,Tuesday,17:59:00,Multiple,No,No,No,60,Pedal cyclist,Male,16,Major Cities of Australia,Illawarra,Shellharbour,Collector Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20202035,Vic,2,2020,Monday,09:11:00,Multiple,No,No,No,100,Driver,Female,18,Inner Regional Australia,Warrnambool and South West,Corangamite,Arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20204040,SA,2,2020,Wednesday,12:45:00,Multiple,No,No,No,60,Motorcycle rider,Male,18,Major Cities of Australia,Adelaide - North,Salisbury,Sub-arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20203068,Qld,2,2020,Friday,15:00:00,Single,No,No,No,70,Pedestrian,Male,13,Major Cities of Australia,Ipswich,Ipswich,Sub-arterial Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20201159,NSW,2,2020,Saturday,19:50:00,Multiple,No,No,No,50,Pedestrian,Male,13,Major Cities of Australia,Sydney - Parramatta,Parramatta,Collector Road,No,No,0_to_16,Weekend,Night,4,No,Night
+20201159,NSW,2,2020,Saturday,19:50:00,Multiple,No,No,No,50,Pedestrian,Female,12,Major Cities of Australia,Sydney - Parramatta,Parramatta,Collector Road,No,No,0_to_16,Weekend,Night,4,No,Night
+20203097,Qld,1,2020,Sunday,00:00:00,Single,No,No,No,100,Passenger,Male,16,Inner Regional Australia,Darling Downs - Maranoa,Toowoomba,Sub-arterial Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20206029,Tas,1,2020,Friday,23:47:00,Single,No,No,No,60,Driver,Female,17,Outer Regional Australia,West and North West,Devonport,Local Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20203250,Qld,1,2020,Friday,23:00:00,Single,No,No,No,10,Pedestrian,Male,17,Major Cities of Australia,Brisbane - East,Brisbane,National or State Highway,No,No,17_to_25,Weekend,Night,1,No,Night
+20203224,Qld,1,2020,Thursday,20:00:00,Single,No,No,Yes,100,Pedestrian,Male,18,Inner Regional Australia,Toowoomba,Toowoomba,Local Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20201162,NSW,1,2020,Monday,21:10:00,Single,No,No,Yes,100,Pedestrian,Male,17,Outer Regional Australia,Riverina,Griffith,Arterial Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20194090,SA,12,2019,Monday,05:30:00,Multiple,No,No,Yes,110,Driver,Male,18,Outer Regional Australia,South Australia - South East,Coorong,National or State Highway,No,No,17_to_25,Weekend,Night,1,No,Night
+20193041,Qld,12,2019,Tuesday,21:00:00,Single,No,No,No,60,Driver,Male,18,Outer Regional Australia,Cairns,Cairns,Local Road,No,No,17_to_25,Weekday,Night,2,No,Night
+20193041,Qld,12,2019,Tuesday,21:00:00,Single,No,No,No,60,Passenger,Female,17,Outer Regional Australia,Cairns,Cairns,Local Road,No,No,17_to_25,Weekday,Night,2,No,Night
+20193089,Qld,12,2019,Thursday,22:00:00,Single,No,No,No,100,Passenger,Male,17,Outer Regional Australia,Central Queensland,Central Highlands (Qld),National or State Highway,No,No,17_to_25,Weekday,Night,1,No,Night
+20197006,NT,12,2019,Monday,14:39:00,Single,No,No,No,80,Driver,Male,18,Outer Regional Australia,Darwin,Darwin,Arterial Road,Yes,No,17_to_25,Weekday,Day,1,No,Day
+20191057,NSW,12,2019,Wednesday,07:10:00,Single,No,No,No,100,Driver,Male,18,Outer Regional Australia,Central West,Parkes,Arterial Road,Yes,No,17_to_25,Weekday,Day,1,No,Day
+20192158,Vic,12,2019,Saturday,22:32:00,Multiple,No,No,No,80,Pedal cyclist,Male,16,Inner Regional Australia,Bendigo,Greater Bendigo,Arterial Road,Yes,No,0_to_16,Weekend,Night,1,No,Night
+20193069,Qld,11,2019,Saturday,19:00:00,Multiple,No,Yes,No,100,Passenger,Female,12,Outer Regional Australia,Mackay - Isaac - Whitsunday,Mackay,Local Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20191237,NSW,11,2019,Sunday,23:45:00,Single,No,No,No,100,Driver,Male,18,Outer Regional Australia,Central West,Cabonne,Arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20193120,Qld,11,2019,Monday,04:00:00,Single,No,No,No,100,Driver,Male,18,Major Cities of Australia,Ipswich,Ipswich,National or State Highway,No,No,17_to_25,Weekend,Night,1,No,Night
+20194078,SA,11,2019,Saturday,11:30:00,Single,No,No,No,70,Motorcycle rider,Male,16,Major Cities of Australia,Adelaide - North,Salisbury,Sub-arterial Road,No,No,0_to_16,Weekend,Day,1,No,Day
+20194011,SA,11,2019,Thursday,18:45:00,Single,No,No,No,110,Driver,Male,18,Remote Australia,South Australia - Outback,Unincorporated SA,National or State Highway,No,No,17_to_25,Weekday,Night,1,No,Night
+20192194,Vic,11,2019,Thursday,10:48:00,Single,No,No,No,100,Driver,Male,18,Inner Regional Australia,Latrobe - Gippsland,Baw Baw,Arterial Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20195120,WA,10,2019,Friday,22:09:00,Single,No,No,No,50,Passenger,Male,16,Major Cities of Australia,Perth - South East,Gosnells,Local Road,No,No,0_to_16,Weekend,Night,2,No,Night
+20193045,Qld,10,2019,Sunday,19:00:00,Multiple,No,No,No,100,Passenger,Female,16,Outer Regional Australia,Cairns,Cairns,National or State Highway,No,No,0_to_16,Weekend,Night,2,No,Night
+20193133,Qld,10,2019,Sunday,01:00:00,Single,No,No,No,50,Passenger,Male,15,Major Cities of Australia,Gold Coast,Gold Coast,Local Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20193104,Qld,10,2019,Friday,19:00:00,Single,No,No,No,100,Passenger,Male,18,Outer Regional Australia,Cairns,Tablelands,National or State Highway,No,No,17_to_25,Weekend,Night,1,No,Night
+20193124,Qld,10,2019,Sunday,22:00:00,Single,No,No,No,100,Driver,Male,18,Inner Regional Australia,Darling Downs - Maranoa,Toowoomba,Local Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20195041,WA,10,2019,Thursday,08:10:00,Single,No,Yes,No,110,Driver,Male,17,Inner Regional Australia,Perth - North East,Swan,National or State Highway,No,No,17_to_25,Weekday,Day,1,No,Day
+20191106,NSW,9,2019,Sunday,15:00:00,Single,No,No,No,100,Passenger,Male,17,Inner Regional Australia,Central West,Cowra,Arterial Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20191029,NSW,9,2019,Thursday,17:05:00,Single,No,No,No,80,Driver,Male,17,Inner Regional Australia,Sydney - Baulkham Hills and Hawkesbury,Hawkesbury,Local Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20191180,NSW,9,2019,Friday,08:35:00,Single,No,No,No,40,Pedestrian,Male,12,Major Cities of Australia,Sydney - Inner South West,Georges River,Collector Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20192243,Vic,9,2019,Saturday,21:55:00,Single,No,No,No,100,Passenger,Male,17,Inner Regional Australia,Latrobe - Gippsland,Latrobe (Vic.),Local Road,No,No,17_to_25,Weekend,Night,2,No,Night
+20192243,Vic,9,2019,Saturday,21:55:00,Single,No,No,No,100,Driver,Male,18,Inner Regional Australia,Latrobe - Gippsland,Latrobe (Vic.),Local Road,No,No,17_to_25,Weekend,Night,2,No,Night
+20192207,Vic,9,2019,Sunday,12:15:00,Single,No,No,No,100,Driver,Male,18,Inner Regional Australia,Bendigo,Loddon,Sub-arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20192206,Vic,8,2019,Sunday,16:15:00,Multiple,No,No,No,80,Passenger,Male,16,Major Cities of Australia,Melbourne - South East,Casey,Local Road,No,No,0_to_16,Weekend,Night,2,No,Night
+20192206,Vic,8,2019,Sunday,16:15:00,Multiple,No,No,No,80,Passenger,Female,18,Major Cities of Australia,Melbourne - South East,Casey,Local Road,No,No,17_to_25,Weekend,Night,2,No,Night
+20191084,NSW,8,2019,Tuesday,20:40:00,Single,No,No,No,60,Driver,Male,17,Major Cities of Australia,Illawarra,Wollongong,Collector Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20193103,Qld,8,2019,Thursday,20:00:00,Single,No,No,No,80,Driver,Male,18,Inner Regional Australia,Mackay - Isaac - Whitsunday,Mackay,Sub-arterial Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20195078,WA,8,2019,Saturday,15:57:00,Single,No,No,No,110,Passenger,Female,12,Very Remote Australia,Western Australia - Outback (North),Derby-West Kimberley,National or State Highway,No,No,0_to_16,Weekend,Day,1,No,Day
+20191092,NSW,8,2019,Tuesday,17:50:00,Multiple,No,No,No,50,Motorcycle rider,Male,18,Major Cities of Australia,Richmond - Tweed,Tweed,Local Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20191036,NSW,8,2019,Tuesday,08:30:00,Multiple,Yes,No,No,50,Pedal cyclist,Male,17,Major Cities of Australia,Hunter Valley exc Newcastle,Port Stephens,Local Road,No,No,17_to_25,Weekday,Day,1,Yes,Day
+20193110,Qld,8,2019,Friday,09:00:00,Single,No,No,No,60,Driver,Male,18,Major Cities of Australia,Gold Coast,Gold Coast,Sub-arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20193108,Qld,7,2019,Friday,18:00:00,Multiple,No,No,No,80,Passenger,Male,18,Inner Regional Australia,Wide Bay,Bundaberg,National or State Highway,No,No,17_to_25,Weekend,Night,1,No,Night
+20193173,Qld,7,2019,Monday,15:00:00,Single,No,No,No,100,Passenger,Male,16,Inner Regional Australia,Central Queensland,Rockhampton,Local Road,No,No,0_to_16,Weekday,Day,2,No,Day
+20192150,Vic,7,2019,Saturday,20:50:00,Multiple,No,No,No,70,Passenger,Male,18,Major Cities of Australia,Melbourne - South East,Monash,National or State Highway,No,No,17_to_25,Weekend,Night,1,No,Night
+20192109,Vic,7,2019,Monday,16:17:00,Single,No,No,No,80,Pedestrian,Male,14,Major Cities of Australia,Melbourne - Outer East,Maroondah,Arterial Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20191318,NSW,6,2019,Saturday,08:27:00,Multiple,No,No,No,100,Driver,Female,17,Outer Regional Australia,Coffs Harbour - Grafton,Clarence Valley,Arterial Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20193154,Qld,6,2019,Thursday,10:00:00,Single,No,No,No,100,Driver,Female,16,Outer Regional Australia,Darling Downs - Maranoa,Western Downs,Collector Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20194071,SA,6,2019,Saturday,21:40:00,Single,No,No,No,60,Pedestrian,Female,15,Major Cities of Australia,Adelaide - South,Marion,Sub-arterial Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20192225,Vic,6,2019,Friday,12:11:00,Multiple,No,Yes,No,60,Pedal cyclist,Male,18,Inner Regional Australia,Bendigo,Greater Bendigo,Arterial Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20194101,SA,5,2019,Saturday,04:30:00,Single,No,No,No,100,Passenger,Male,18,Remote Australia,South Australia - Outback,Tumby Bay,Sub-arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20194053,SA,5,2019,Saturday,08:35:00,Single,No,No,No,110,Driver,Female,17,Outer Regional Australia,South Australia - South East,Tatiara,Sub-arterial Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20193165,Qld,5,2019,Wednesday,14:00:00,Multiple,No,No,No,70,Passenger,Male,14,Major Cities of Australia,Moreton Bay - North,Moreton Bay,Sub-arterial Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20195067,WA,5,2019,Thursday,16:01:00,Single,No,No,No,110,Driver,Female,18,Inner Regional Australia,Mandurah,Murray,National or State Highway,No,No,17_to_25,Weekday,Day,1,No,Day
+20192104,Vic,5,2019,Saturday,07:38:00,Multiple,No,Yes,No,100,Passenger,Male,15,Inner Regional Australia,Latrobe - Gippsland,Bass Coast,National or State Highway,No,No,0_to_16,Weekend,Night,1,No,Night
+20192219,Vic,5,2019,Monday,23:15:00,Multiple,No,No,No,80,Passenger,Female,18,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula,National or State Highway,No,No,17_to_25,Weekend,Night,2,No,Night
+20196017,Tas,4,2019,Saturday,00:04:00,Single,No,No,No,100,Passenger,Male,18,Outer Regional Australia,Launceston and North East,West Tamar,Arterial Road,No,Yes,17_to_25,Weekend,Night,1,No,Night
+20191175,NSW,4,2019,Thursday,22:30:00,Single,No,No,No,100,Passenger,Male,18,Outer Regional Australia,New England and North West,Narrabri,Local Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20192241,Vic,4,2019,Friday,01:15:00,Single,No,No,No,50,Passenger,Male,17,Major Cities of Australia,Mornington Peninsula,Mornington Peninsula,Local Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20191294,NSW,3,2019,Saturday,19:05:00,Multiple,No,No,No,60,Passenger,Male,12,Major Cities of Australia,Sydney - Parramatta,Parramatta,Arterial Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20193040,Qld,3,2019,Saturday,01:00:00,Single,No,No,No,100,Passenger,Male,18,Remote Australia,Cairns,Cassowary Coast,Local Road,No,No,17_to_25,Weekend,Night,4,No,Night
+20193040,Qld,3,2019,Saturday,01:00:00,Single,No,No,No,100,Passenger,Male,18,Remote Australia,Cairns,Cassowary Coast,Local Road,No,No,17_to_25,Weekend,Night,4,No,Night
+20193085,Qld,3,2019,Tuesday,16:00:00,Multiple,No,No,No,60,Motorcycle rider,Male,16,Outer Regional Australia,Townsville,Townsville,Local Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20191007,NSW,3,2019,Thursday,07:30:00,Single,No,No,No,110,Passenger,Male,18,Inner Regional Australia,Murray,Greater Hume,National or State Highway,No,No,17_to_25,Weekday,Day,2,No,Day
+20196002,Tas,3,2019,Wednesday,10:45:00,Single,No,No,No,60,Motorcycle rider,Male,17,Inner Regional Australia,Hobart,Glenorchy,Local Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20192197,Vic,3,2019,Friday,01:10:00,Single,No,No,No,80,Driver,Female,15,Major Cities of Australia,Melbourne - North East,Whittlesea,Arterial Road,No,No,0_to_16,Weekday,Night,1,No,Night
+20192244,Vic,2,2019,Sunday,12:00:00,Multiple,No,No,No,80,Passenger,Female,17,Major Cities of Australia,Melbourne - Outer East,Knox,National or State Highway,No,No,17_to_25,Weekend,Night,1,No,Night
+20192157,Vic,2,2019,Thursday,16:50:00,Multiple,No,Yes,No,100,Pedal cyclist,Male,15,Inner Regional Australia,Warrnambool and South West,Warrnambool,Arterial Road,No,No,0_to_16,Weekday,Night,1,No,Night
+20192096,Vic,2,2019,Saturday,17:24:00,Multiple,No,No,Yes,80,Pedal cyclist,Male,18,Outer Regional Australia,Warrnambool and South West,Glenelg,Local Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20195083,WA,1,2019,Saturday,03:40:00,Single,No,No,No,90,Driver,Male,18,Outer Regional Australia,Western Australia - Outback (South),Chapman Valley,Arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20197024,NT,1,2019,Saturday,15:30:00,Single,No,No,No,110,Passenger,Male,12,Very Remote Australia,Northern Territory - Outback,Central Desert,Arterial Road,No,No,0_to_16,Weekend,Day,1,No,Day
+20194018,SA,1,2019,Saturday,11:40:00,Single,No,No,No,60,Motorcycle rider,Male,18,Major Cities of Australia,Adelaide - North,Salisbury,Sub-arterial Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20193167,Qld,1,2019,Monday,20:00:00,Single,No,No,No,100,Driver,Male,18,Outer Regional Australia,Darling Downs - Maranoa,Goondiwindi,National or State Highway,No,No,17_to_25,Weekday,Night,1,No,Night
+20193014,Qld,1,2019,Wednesday,21:00:00,Single,No,No,No,60,Pedestrian,Male,17,Major Cities of Australia,Brisbane - South,Brisbane,National or State Highway,No,No,17_to_25,Weekday,Night,1,No,Night
+20192132,Vic,1,2019,Wednesday,19:30:00,Multiple,No,No,Yes,100,Passenger,Female,16,Outer Regional Australia,Warrnambool and South West,Glenelg,National or State Highway,No,No,0_to_16,Weekday,Night,1,No,Night
+20181049,NSW,12,2018,Sunday,06:30:00,Single,No,No,No,110,Driver,Male,16,Outer Regional Australia,Far West and Orana,Gilgandra,National or State Highway,No,No,0_to_16,Weekend,Day,2,No,Day
+20181049,NSW,12,2018,Sunday,06:30:00,Single,No,No,No,110,Passenger,Male,18,Outer Regional Australia,Far West and Orana,Gilgandra,National or State Highway,No,No,17_to_25,Weekend,Day,2,No,Day
+20183224,Qld,12,2018,Thursday,09:00:00,Multiple,No,No,Yes,100,Driver,Female,18,Outer Regional Australia,Cairns,Cassowary Coast (R),Local Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20182106,Vic,12,2018,Sunday,11:00:00,Multiple,No,No,No,50,Motorcycle rider,Male,17,Major Cities of Australia,Melbourne - North West,Moreland (C),Local Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20185132,WA,12,2018,Tuesday,12:30:00,Single,No,No,No,110,Driver,Female,17,Inner Regional Australia,Mandurah,Mandurah (C),Local Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20186019,Tas,12,2018,Thursday,13:49:00,Multiple,No,No,No,100,Driver,Female,18,Outer Regional Australia,South East,Tasman (M),National or State Highway,Yes,No,17_to_25,Weekday,Day,2,No,Day
+20186019,Tas,12,2018,Thursday,13:49:00,Multiple,No,No,No,100,Passenger,Male,18,Outer Regional Australia,South East,Tasman (M),National or State Highway,Yes,No,17_to_25,Weekday,Day,2,No,Day
+20186012,Tas,12,2018,Tuesday,16:00:00,Multiple,No,No,No,100,Passenger,Male,18,Outer Regional Australia,Launceston and North East,Launceston (C),Sub-arterial Road,Yes,No,17_to_25,Weekday,Day,1,No,Day
+20181226,NSW,12,2018,Tuesday,17:30:00,Single,No,No,No,80,Driver,Male,17,Inner Regional Australia,Sydney - Outer South West,Wollondilly,Local Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20181237,NSW,12,2018,Tuesday,19:00:00,Single,No,No,No,100,Pedestrian,Male,15,Outer Regional Australia,Riverina,Junee,Sub-arterial Road,No,No,0_to_16,Weekday,Night,1,No,Night
+20183171,Qld,11,2018,Monday,07:00:00,Multiple,No,Yes,No,100,Passenger,Female,12,Inner Regional Australia,Wide Bay,Bundaberg (R),National or State Highway,No,No,0_to_16,Weekday,Day,2,No,Day
+20181265,NSW,11,2018,Wednesday,09:10:00,Multiple,No,No,No,60,Passenger,Male,14,Major Cities of Australia,Sydney - North Sydney and Hornsby,Hornsby,Collector Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20183139,Qld,11,2018,Monday,15:00:00,Multiple,No,No,No,100,Driver,Female,18,Inner Regional Australia,Gold Coast,Scenic Rim (R),Sub-arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20184017,SA,11,2018,Tuesday,16:40:00,Multiple,No,No,No,100,Passenger,Female,18,Inner Regional Australia,South Australia - South East,Alexandrina (DC),Arterial Road,No,No,17_to_25,Weekday,Day,2,No,Day
+20184017,SA,11,2018,Tuesday,16:40:00,Multiple,No,No,No,100,Driver,Male,17,Inner Regional Australia,South Australia - South East,Alexandrina (DC),Arterial Road,No,No,17_to_25,Weekday,Day,2,No,Day
+20181045,NSW,11,2018,Monday,17:15:00,Single,No,No,No,50,Motorcycle rider,Male,16,Outer Regional Australia,New England and North West,Inverell,Local Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20181234,NSW,11,2018,Saturday,19:45:00,Single,No,No,No,50,Pedestrian,Male,18,Major Cities of Australia,Central Coast,Central Coast,Collector Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20182004,Vic,11,2018,Friday,21:48:00,Multiple,No,No,Yes,100,Passenger,Male,12,Inner Regional Australia,Hume,Wangaratta (RC),National or State Highway,No,No,0_to_16,Weekend,Night,2,No,Night
+20183081,Qld,11,2018,Saturday,23:00:00,Single,No,No,No,80,Pedestrian,Male,18,Major Cities of Australia,Sunshine Coast,Noosa (S),Sub-arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20183194,Qld,10,2018,Sunday,01:00:00,Single,No,No,No,100,Pedestrian,Male,18,Outer Regional Australia,Queensland - Outback,Mareeba (S),Sub-arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20181067,NSW,10,2018,Sunday,05:30:00,Single,No,No,No,50,Passenger,Female,17,Major Cities of Australia,Sydney - Blacktown,Blacktown,Local Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20181138,NSW,10,2018,Sunday,07:05:00,Single,No,No,No,60,Driver,Male,18,Major Cities of Australia,Newcastle and Lake Macquarie,Lake Macquarie,Collector Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20183057,Qld,10,2018,Tuesday,09:00:00,Multiple,No,No,No,100,Passenger,Female,17,Inner Regional Australia,Darling Downs - Maranoa,Toowoomba (R),Local Road,No,No,17_to_25,Weekday,Day,2,No,Day
+20181179,NSW,10,2018,Friday,10:55:00,Single,No,No,No,100,Passenger,Female,13,Inner Regional Australia,Central West,Bathurst Regional,Sub-arterial Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20184051,SA,10,2018,Sunday,13:15:00,Multiple,No,No,No,100,Driver,Female,17,Inner Regional Australia,Adelaide - North,Light (RegC),Arterial Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20183031,Qld,10,2018,Monday,16:00:00,Multiple,Yes,No,No,90,Pedal cyclist,Female,14,Inner Regional Australia,Ipswich,Somerset (R),Sub-arterial Road,No,No,0_to_16,Weekday,Day,1,Yes,Day
+20183208,Qld,9,2018,Saturday,01:00:00,Multiple,No,No,No,60,Passenger,Male,15,Major Cities of Australia,Brisbane - North,Brisbane (C),Collector Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20187024,NT,9,2018,Sunday,07:00:00,Single,No,No,No,130,Passenger,Male,16,Very Remote Australia,Northern Territory - Outback,Barkly (R),National or State Highway,No,No,0_to_16,Weekend,Day,2,No,Day
+20187024,NT,9,2018,Sunday,07:00:00,Single,No,No,No,130,Passenger,Male,15,Very Remote Australia,Northern Territory - Outback,Barkly (R),National or State Highway,No,No,0_to_16,Weekend,Day,2,No,Day
+20185140,WA,9,2018,Monday,07:02:00,Single,No,No,No,110,Driver,Male,18,Remote Australia,Western Australia - Wheat Belt,Kondinin (S),National or State Highway,No,No,17_to_25,Weekday,Day,1,No,Day
+20185021,WA,9,2018,Tuesday,14:15:00,Single,No,No,No,110,Driver,Male,16,Inner Regional Australia,Western Australia - Wheat Belt,Toodyay (S),Local Road,No,No,0_to_16,Weekday,Day,2,No,Day
+20185021,WA,9,2018,Tuesday,14:15:00,Single,No,No,No,110,Passenger,Male,16,Inner Regional Australia,Western Australia - Wheat Belt,Toodyay (S),Local Road,No,No,0_to_16,Weekday,Day,2,No,Day
+20181151,NSW,9,2018,Thursday,16:35:00,Single,No,No,No,110,Driver,Male,18,Inner Regional Australia,Mid North Coast,Port Macquarie-Hastings,National or State Highway,No,No,17_to_25,Weekday,Day,1,No,Day
+20181124,NSW,9,2018,Saturday,17:15:00,Single,No,No,No,100,Driver,Male,18,Outer Regional Australia,New England and North West,Armidale Regional,Local Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20181250,NSW,9,2018,Friday,19:42:00,Multiple,No,No,No,60,Driver,Female,17,Major Cities of Australia,Sydney - Outer West and Blue Mountains,Penrith,Arterial Road,No,No,17_to_25,Weekend,Night,2,No,Night
+20182125,Vic,8,2018,Saturday,00:50:00,Single,No,No,No,80,Passenger,Male,12,Inner Regional Australia,Shepparton,Greater Shepparton (C),Collector Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20185127,WA,8,2018,Saturday,01:30:00,Single,No,No,No,70,Pedestrian,Female,16,Remote Australia,Western Australia - Outback (South),Esperance (S),Local Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20184072,SA,8,2018,Sunday,13:30:00,Single,No,No,No,100,Driver,Male,17,Inner Regional Australia,Barossa - Yorke - Mid North,Wakefield (DC),Local Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20181246,NSW,8,2018,Monday,16:00:00,Single,No,No,No,100,Driver,Male,14,Outer Regional Australia,Far West and Orana,Dubbo Regional,Local Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20181158,NSW,8,2018,Friday,16:50:00,Single,No,Yes,No,60,Pedestrian,Male,16,Major Cities of Australia,Sydney - Inner South West,Canterbury-Bankstown,Collector Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20183155,Qld,8,2018,Sunday,17:00:00,Single,No,No,No,100,Passenger,Male,14,Remote Australia,Darling Downs - Maranoa,Maranoa (R),National or State Highway,No,No,0_to_16,Weekend,Day,1,No,Day
+20182190,Vic,8,2018,Tuesday,17:28:00,Single,No,No,No,100,Driver,Male,18,Inner Regional Australia,Melbourne - South East,Cardinia (S),Sub-arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20183040,Qld,7,2018,Sunday,00:00:00,Single,No,No,No,50,Motorcycle rider,Male,17,Major Cities of Australia,Moreton Bay - North,Moreton Bay (R),Local Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20185011,WA,7,2018,Tuesday,18:23:00,Single,No,No,No,50,Pedestrian,Male,15,Major Cities of Australia,Perth - North East,Mundaring (S),Arterial Road,No,No,0_to_16,Weekday,Night,1,No,Night
+20183195,Qld,5,2018,Sunday,01:00:00,Single,No,No,No,80,Pedestrian,Male,18,Inner Regional Australia,Wide Bay,Bundaberg (R),Sub-arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20182108,Vic,5,2018,Wednesday,07:00:00,Single,No,Yes,No,80,Pedestrian,Female,14,Major Cities of Australia,Melbourne - Outer East,Maroondah (C),National or State Highway,No,No,0_to_16,Weekday,Day,1,No,Day
+20184060,SA,5,2018,Sunday,11:05:00,Single,No,No,No,100,Passenger,Female,15,Outer Regional Australia,Barossa - Yorke - Mid North,Mount Remarkable (DC),Sub-arterial Road,No,No,0_to_16,Weekend,Day,1,No,Day
+20183108,Qld,5,2018,Saturday,14:00:00,Single,No,No,No,110,Driver,Male,17,Outer Regional Australia,Townsville,Townsville (C),National or State Highway,No,No,17_to_25,Weekend,Day,1,No,Day
+20183033,Qld,5,2018,Sunday,15:00:00,Multiple,No,No,No,60,Passenger,Male,15,Major Cities of Australia,Gold Coast,Gold Coast (C),Sub-arterial Road,No,No,0_to_16,Weekend,Day,1,No,Day
+20181154,NSW,5,2018,Sunday,23:20:00,Single,No,No,No,100,Driver,Male,18,Outer Regional Australia,Coffs Harbour - Grafton,Bellingen,Arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20183047,Qld,4,2018,Saturday,01:00:00,Single,No,No,No,110,Passenger,Male,16,Outer Regional Australia,Darling Downs - Maranoa,Goondiwindi (R),National or State Highway,No,No,0_to_16,Weekend,Night,2,No,Night
+20183047,Qld,4,2018,Saturday,01:00:00,Single,No,No,No,110,Driver,Male,17,Outer Regional Australia,Darling Downs - Maranoa,Goondiwindi (R),National or State Highway,No,No,17_to_25,Weekend,Night,2,No,Night
+20181047,NSW,4,2018,Thursday,01:15:00,Multiple,No,Yes,No,60,Driver,Male,17,Major Cities of Australia,Sydney - North Sydney and Hornsby,Hornsby,Collector Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20181087,NSW,4,2018,Monday,18:45:00,Multiple,No,No,No,100,Passenger,Male,18,Outer Regional Australia,New England and North West,Narrabri,National or State Highway,No,Yes,17_to_25,Weekday,Night,1,No,Night
+20185017,WA,4,2018,Sunday,22:15:00,Single,No,No,No,-9,Passenger,Male,18,Inner Regional Australia,Western Australia - Wheat Belt,Murray (S),Local Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20183032,Qld,3,2018,Saturday,00:00:00,Single,No,No,No,100,Passenger,Male,16,Major Cities of Australia,Logan - Beaudesert,Logan (C),Sub-arterial Road,No,No,0_to_16,Weekend,Night,1,No,Night
+20187008,NT,3,2018,Saturday,02:30:00,Single,No,No,No,60,Driver,Female,18,Remote Australia,Northern Territory - Outback,Alice Springs (T),Sub-arterial Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20181078,NSW,3,2018,Saturday,15:20:00,Single,No,No,No,80,Passenger,Male,17,Inner Regional Australia,Mid North Coast,Mid-Coast,Sub-arterial Road,No,No,17_to_25,Weekend,Day,1,No,Day
+20181164,NSW,3,2018,Friday,16:05:00,Multiple,No,Yes,No,80,Driver,Female,17,Inner Regional Australia,Mid North Coast,Port Macquarie-Hastings,Sub-arterial Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20184075,SA,3,2018,Friday,17:40:00,Multiple,No,Yes,No,60,Pedal cyclist,Male,14,Outer Regional Australia,South Australia - Outback,Whyalla (C),Collector Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20187021,NT,3,2018,Wednesday,19:03:00,Multiple,No,No,No,90,Motorcycle rider,Male,16,Outer Regional Australia,Darwin,Litchfield (M),Sub-arterial Road,No,No,0_to_16,Weekday,Night,1,No,Night
+20181174,NSW,3,2018,Friday,19:24:00,Multiple,No,No,No,60,Passenger,Male,17,Major Cities of Australia,Sydney - Outer South West,Campbelltown,Arterial Road,No,Yes,17_to_25,Weekend,Night,1,No,Night
+20183152,Qld,3,2018,Tuesday,23:00:00,Single,No,No,No,60,Passenger,Female,17,Inner Regional Australia,Sunshine Coast,Sunshine Coast (R),Local Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20181230,NSW,2,2018,Friday,00:01:00,Single,No,No,No,100,Driver,Male,18,Inner Regional Australia,Riverina,Cootamundra-Gundagai,Arterial Road,No,No,17_to_25,Weekday,Night,1,No,Night
+20181090,NSW,2,2018,Monday,07:25:00,Single,No,No,No,50,Pedestrian,Female,17,Inner Regional Australia,Hunter Valley exc Newcastle,Port Stephens,Local Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20181001,NSW,2,2018,Saturday,07:42:00,Multiple,No,No,No,100,Driver,Male,17,Major Cities of Australia,Sydney - Outer South West,Wollondilly,Arterial Road,No,No,17_to_25,Weekend,Day,2,No,Day
+20182168,Vic,2,2018,Wednesday,08:35:00,Single,No,No,No,100,Passenger,Female,15,Inner Regional Australia,Melbourne - South East,Cardinia (S),Local Road,No,No,0_to_16,Weekday,Day,1,No,Day
+20185009,WA,2,2018,Wednesday,15:37:00,Single,No,No,No,110,Driver,Female,17,Outer Regional Australia,Bunbury,Manjimup (S),Local Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20183160,Qld,2,2018,Tuesday,17:00:00,Single,No,No,No,80,Driver,Male,17,Very Remote Australia,Queensland - Outback,Mornington (S),Local Road,No,No,17_to_25,Weekday,Day,1,No,Day
+20185133,WA,2,2018,Thursday,17:54:00,Single,No,No,No,80,Driver,Male,16,Major Cities of Australia,Perth - North East,Mundaring (S),National or State Highway,No,No,0_to_16,Weekday,Day,1,No,Day
+20181118,NSW,2,2018,Friday,19:55:00,Single,No,No,No,50,Pedestrian,Male,18,Major Cities of Australia,Sydney - North Sydney and Hornsby,Hornsby,Local Road,No,No,17_to_25,Weekend,Night,1,No,Night
+20181039,NSW,1,2018,Monday,00:10:00,Multiple,No,No,No,60,Passenger,Female,17,Major Cities of Australia,Sydney - Inner South West,Canterbury-Bankstown,Collector Road,Yes,No,17_to_25,Weekend,Night,1,No,Night
+20182200,Vic,1,2018,Tuesday,10:35:00,Multiple,No,Yes,No,100,Driver,Male,18,Inner Regional Australia,Bendigo,Greater Bendigo (C),National or State Highway,No,No,17_to_25,Weekday,Day,1,No,Day
+20181286,NSW,1,2018,Saturday,11:48:00,Single,No,No,No,80,Motorcycle rider,Male,18,Inner Regional Australia,Sydney - North Sydney and Hornsby,Hornsby,National or State Highway,No,No,17_to_25,Weekend,Day,1,No,Day
+20187007,NT,1,2018,Thursday,22:40:00,Single,No,No,No,60,Pedestrian,Female,18,Remote Australia,Northern Territory - Outback,Alice Springs (T),Sub-arterial Road,No,No,17_to_25,Weekday,Night,1,No,Night
